@@ -69,5 +69,5 @@ Shell operators improve efficiency and allow command chaining.
 
 ## Screenshot
 
-![Linux Room 1]
+![linux Room 1]
 (linux_room_01_complete.png)
