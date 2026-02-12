@@ -1,3 +1,4 @@
+# 🐧 Linux Room 01 – TryHackMe SEC101
 
 ## Why Linux Matters
 - Widely used in servers, cloud, and enterprise systems
@@ -25,15 +26,12 @@ touch    → Create a new file
 mkdir    → Create a directory  
 rm       → Remove files/directories  
 
-These commands form the foundation of daily Linux usage.
-
 ---
 
 ## Filesystem Navigation
 - Linux uses a hierarchical directory structure
 - Absolute path → Starts from root (/)
 - Relative path → Based on current directory
-- Efficient navigation is critical when working in security environments
 
 ---
 
@@ -41,12 +39,6 @@ These commands form the foundation of daily Linux usage.
 
 find  → Locate files and directories  
 grep  → Search for specific text patterns inside files  
-
-Very useful for:
-- Log analysis
-- Finding sensitive files
-- Investigations
-- System auditing
 
 ---
 
@@ -57,8 +49,6 @@ Very useful for:
 >   → Redirect output (overwrite)  
 >>  → Redirect output (append)  
 
-Shell operators improve efficiency and allow command chaining.
-
 ---
 
 ## Key Takeaways
@@ -67,7 +57,16 @@ Shell operators improve efficiency and allow command chaining.
 - Searching and navigating effectively saves time.
 - Consistent practice makes commands natural.
 
+---
+
 ## Screenshot
 
-![linux Room 1]
-(linux_room_01_complete.png)
+![Linux Room 1](linux_room_01_complete.png)
+
+> Screenshot shows completion of Linux Room 01 on TryHackMe
+
+---
+
+Next: Linux Fundamentals Part 2
+
+
