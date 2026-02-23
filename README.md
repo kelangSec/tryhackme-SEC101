@@ -38,8 +38,7 @@ Each section represents a major topic area. Inside each section:
 - Room folders
 - Notes (.md)
 - Screenshots
-- Scripts
-- Diagrams (optional)
+- Scripts(optional)
 
 ### Sections Overview
 
