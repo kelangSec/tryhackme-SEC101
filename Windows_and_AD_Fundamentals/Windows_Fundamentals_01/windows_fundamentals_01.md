@@ -127,7 +127,8 @@ msinfo32
 
 Below is a placeholder for the lab completion screenshot:
 
-![Windows Fundamentals 01 Complete](windows_fundamentals_01_complete.png)
+![Windows Fundamentals 01 Complete]
+(windows_fundamentals_01_complete.png)
 
 Replace this with your actual screenshot once the lab is complete.
 
