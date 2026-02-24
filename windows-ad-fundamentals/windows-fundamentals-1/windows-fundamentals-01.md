@@ -128,7 +128,7 @@ Here is the placeholder for your lab screenshot (single line, will display corre
 
 ![Windows Fundamentals 01 Screenshot](windows_fundamentals_01_complete.png)
 
-Replace this with your actual screenshot once the lab is complete.
+
 
 ## Key Security Insights
 
