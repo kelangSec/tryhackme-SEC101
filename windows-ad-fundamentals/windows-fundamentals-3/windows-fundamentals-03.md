@@ -69,11 +69,11 @@ Central hub for system protection. Provides access to:
 
 ## 10. Screenshot
 
-Here is the placeholder for your lab screenshot (single line, will display correctly):
+
 
 ![Windows Fundamentals 03 Screenshot](windows_fundamentals_03_complete.png)
 
-Replace this with your actual screenshot once the lab is complete.
+
 
 ## What I Learned
 
