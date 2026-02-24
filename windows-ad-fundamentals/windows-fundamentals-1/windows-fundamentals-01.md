@@ -124,7 +124,7 @@ msinfo32
 
 ## Screenshot
 
-Here is the placeholder for your lab screenshot (single line, will display correctly):
+
 
 ![Windows Fundamentals 01 Screenshot](windows_fundamentals_01_complete.png)
 
