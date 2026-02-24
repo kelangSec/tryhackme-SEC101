@@ -104,11 +104,11 @@ Get-LocalGroup
 
 ## Screenshot
 
-Here is the placeholder for your lab screenshot (single line, will display correctly):
+
 
 ![Windows Fundamentals 02 Screenshot](windows_fundamentals_02_complete.png)
 
-Replace this with your actual screenshot once the lab is complete.
+
 
 ## What I Learned
 
