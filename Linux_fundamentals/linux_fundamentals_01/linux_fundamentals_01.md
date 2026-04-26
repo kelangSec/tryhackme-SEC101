@@ -69,7 +69,7 @@ grep  → Search for specific text patterns inside files
 
 ## Screenshot
 
-![Linux Room 1](linux_room_01_complete.png)
+![complete](linux_fundamentals_01_done.png)
 
 > Screenshot shows completion of Linux Room 01 on TryHackMe
 
