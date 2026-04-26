@@ -93,7 +93,7 @@ chmod u+x file.sh
 
 ## Screenshot
 
-![complete](linux-fundamentals-02-done.png)
+![complete](linux_fundamentals_02_done.png)
 
 > Screenshot shows completion of Linux Fundamentals Part 2 on TryHackMe  
 
