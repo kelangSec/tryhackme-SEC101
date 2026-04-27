@@ -1,52 +1,118 @@
-Linux Fundamentals – TryHackMe SEC101
+# 🐧 Linux Fundamentals – TryHackMe Learning Notes
 
-This folder contains all my notes, lab write-ups, and screenshots for the *Linux Basics* section of TryHackMe Security 101.  
+## Overview
+This repository documents my learning journey through the **Linux Fundamentals (Part 1, Part 2, and Part 3)** rooms on TryHackMe. It covers essential Linux skills including navigation, file management, permissions, system administration, automation, and shell usage.
 
-Linux is a foundational skill for anyone pursuing *SOC (Blue Team)* or *Pentesting (Offensive Security)* roles. The goal of this section is to build *strong command-line skills, filesystem navigation, and understanding of Linux OS*.
-
----
-
-## 📂 Folder Structure
-
-Each lab/room in this section has its own folder:
-
-- Linux_fundamentals_01
-- Linux_fundamentals_02
-- Linux_fundamentals_03
-
-Inside each room folder:
-
-- linux_fundamentals_01.md → My summarized notes and key commands  
-- linux_fundamentals_01_done.png → Lab screenshots / evidence of hands-on work  
-
-> All future Linux rooms will follow the same structure for consistency.
+These skills are foundational for **cybersecurity, system administration, and cloud environments**.
 
 ---
 
-## 🛠 Skills Covered in Linux Section
+## 📚 Linux Fundamentals – Part 1
 
-- Basic Linux commands (ls, cd, cat, mkdir, touch, rm)  
-- File system navigation & hierarchy  
-- File permissions and ownership (chmod, chown)  
-- Searching and filtering (find, grep)  
-- Shell operators and piping (>, >>, |, &&)  
-- Understanding Linux processes and services  
+### Topics Covered
+- Why Linux matters  
+- First interaction with Linux  
+- Basic Linux commands  
+- Filesystem navigation  
+- Searching for data (find, grep)  
+- Shell operators  
+
+### Key Skills Learned
+- Navigating Linux directories  
+- Using basic terminal commands  
+- Searching and filtering data  
+- Understanding command chaining  
+
+### Screenshot
+![Linux Part 1](linux-fundamentals-01-done.png)
 
 ---
 
-## 🎯 Purpose of this Folder
+## 📚 Linux Fundamentals – Part 2
 
-- Consolidate all Linux fundamentals in one place  
-- Track learning progress over multiple labs  
-- Build a *professional portfolio* for recruiters  
-- Provide reference material for both *SOC and Pentesting labs*  
+### Topics Covered
+- Accessing Linux via SSH  
+- Introduction to flags and switches  
+- Filesystem interaction continued  
+- Permission 101  
+- Common Linux directories  
+- Summary  
+
+### Key Skills Learned
+- Remote access using SSH  
+- Understanding command flags  
+- File permission management (chmod)  
+- User and directory structure understanding  
+
+### Screenshot
+![Linux Part 2](linux-fundamentals-02-done.png)
 
 ---
 
-## 📌 Tips for Using This Folder
+## 📚 Linux Fundamentals – Part 3
 
-- Review notes before attempting labs  
-- Add screenshots of command outputs to reinforce learning  
-- Update notes.md with new discoveries or tricks  
+### Topics Covered
+- Terminal text editor  
+- General / useful utilities  
+- Processes 101  
+- System automation (cron jobs)  
+- Package management  
+- System logs  
+- Conclusion  
 
-> *Linux fundamentals are used in almost every cybersecurity task — mastering these basics makes advanced topics much easier.*
+### Key Skills Learned
+- Editing files using terminal editors (nano/vim)  
+- Process monitoring and management  
+- System automation using cron  
+- Software installation and updates  
+- Log analysis for system monitoring  
+
+### Screenshot
+![Linux Part 3](linux-fundamentals-03-done.png)
+
+---
+
+## 🧠 Core Skills Gained
+
+- Linux command-line navigation  
+- File and directory management  
+- User and permission control  
+- Process and system monitoring  
+- Package management and updates  
+- Automation using scheduling tools  
+- Log analysis and system troubleshooting  
+
+---
+
+## 🚀 Key Takeaways
+
+- Linux is essential for cybersecurity and server environments  
+- Command-line proficiency improves speed and efficiency  
+- File permissions are critical for system security  
+- Automation reduces manual workload  
+- Logs are vital for investigation and troubleshooting  
+- Mastering Linux builds strong foundation for SOC, Blue Team, and Pentesting roles  
+
+---
+
+## 📸 Evidence of Completion
+
+- Part 1: `linux_fundamentals_01_done.png`  
+- Part 2: `linux_fundamentals_02_done.png`  
+- Part 3: `linux_fundamentals_03_done.png`  
+
+---
+
+## 🧭 Next Steps in Learning Path
+
+- Windows Command Line  
+- Windows PowerShell  
+- Linux Shells  
+- Networking Fundamentals  
+- Cybersecurity Tools (Nmap, Wireshark, etc.)  
+- Privilege Escalation Basics  
+
+---
+
+## 🧾 Author
+TryHackMe Learning Notes – Linux Fundamentals Section
