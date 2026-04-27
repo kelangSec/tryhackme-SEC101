@@ -72,7 +72,7 @@ taskkill /IM    → Terminates a process by name
 
 ## Screenshot
 
-![complete](windows-command-line-01-done.png)
+![complete](windows_command_line_01_done.png)
 
 > Screenshot shows completion of Windows Command Line Room on TryHackMe  
 
