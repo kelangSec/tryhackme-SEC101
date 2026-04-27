@@ -24,7 +24,7 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - Understanding command chaining  
 
 ### Screenshot
-![Linux Part 1](linux-fundamentals-01-done.png)
+![Linux Part 1](linux_fundamentals_01_done.png)
 
 ---
 
@@ -45,7 +45,7 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - User and directory structure understanding  
 
 ### Screenshot
-![Linux Part 2](linux-fundamentals-02-done.png)
+![Linux Part 2](linux_fundamentals_02_done.png)
 
 ---
 
@@ -68,7 +68,7 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - Log analysis for system monitoring  
 
 ### Screenshot
-![Linux Part 3](linux-fundamentals-03-done.png)
+![Linux Part 3](linux_fundamentals_03_done.png)
 
 ---
 
