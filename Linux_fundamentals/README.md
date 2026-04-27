@@ -23,9 +23,6 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - Searching and filtering data  
 - Understanding command chaining  
 
-### Screenshot
-![Linux Part 1](linux_fundamentals_01_done.png)
-
 ---
 
 ## 📚 Linux Fundamentals – Part 2
@@ -43,9 +40,6 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - Understanding command flags  
 - File permission management (chmod)  
 - User and directory structure understanding  
-
-### Screenshot
-![Linux Part 2](linux_fundamentals_02_done.png)
 
 ---
 
@@ -66,10 +60,6 @@ These skills are foundational for **cybersecurity, system administration, and cl
 - System automation using cron  
 - Software installation and updates  
 - Log analysis for system monitoring  
-
-### Screenshot
-![Linux Part 3](linux_fundamentals_03_done.png)
-
 ---
 
 ## 🧠 Core Skills Gained
