@@ -107,7 +107,7 @@ telnet IP_address
 
 ## Screenshot
 
-![complete](networking-concepts-01-done.png)
+![complete](networking_concepts_done.png)
 
 > Screenshot shows completion of Networking Concepts Room on TryHackMe
 
